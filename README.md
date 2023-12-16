@@ -1,4 +1,5 @@
 # EE641_project Efficiently Detecting COVID-19 in Patient X-ray Images
+![Lyft Logo](assets/Covid-19.png)
 
 ## Data Preparation
 We convert the original data set to HDF5 format, run 
