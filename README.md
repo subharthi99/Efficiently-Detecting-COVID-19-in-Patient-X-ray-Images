@@ -1,5 +1,4 @@
 # EE641_project Efficiently Detecting COVID-19 in Patient X-ray Images
-[GitHubRepo](https://github.com/CaoyiXue/EE641_project.git)
 
 ## Data Preparation
 We convert the original data set to HDF5 format, run 
